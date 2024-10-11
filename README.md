@@ -1,5 +1,5 @@
 # Kazix
-Site, that connects kahoot, and kahoot.rocks hack. with **<iframe>**
+Site, that connects kahoot, and kahoot.rocks hack with **<iframe>** in **HTML**
 
 [Visit Site](https://itzartzx.github.io/kazix)
 
